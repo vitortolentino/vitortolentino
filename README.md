@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 :books: I’m currently learning software architecture and DevOps.
 
-[![vitortolentino GitHub stats](https://github-readme-stats.vercel.app/api?username=vitortolentino&show_icons=true&theme=tokyonight)
+[![vitortolentino GitHub stats](https://github-readme-stats.vercel.app/api?username=vitortolentino&show_icons=true&theme=tokyonight)](https://github.com/vitortolentino/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitortolentino&layout=compact&theme=tokyonight)](https://github.com/vitortolentino/github-readme-stats)
 
 
